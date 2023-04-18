@@ -1,0 +1,459 @@
+{
+	"version": 0,
+	"enableManufacturerExtras": true,
+	"configurationName": "",
+	"carControllerMode": 0,
+	"gearShiftDebouncingMs": 50,
+	"commandDevices": [
+		{
+			"version": 0,
+			"productName": "vJoy Device",
+			"productId": "3199013428-0-0-00807368867368",
+			"instanceGuid": "{2A001590-DDAE-11ED-8002-444553540000}",
+			"steeringWheelModel": "None",
+			"isGamePad": 0,
+			"isPedals": 0,
+			"iconTemplate": "None",
+			"uICommandButtonList": [],
+			"raceCommandButtonList": [
+				{
+					"buttonIndex": 1,
+					"powIndex": -1,
+					"powValue": 0,
+					"keyName": "None",
+					"gamepadButtonName": "None",
+					"instantActionCode": "GearDown",
+					"extendedActionCode": "None",
+					"extendedTime": 1,
+					"pinkieInstanceActionCode": "None",
+					"pinkieExtendedActionCode": "None"
+				},
+				{
+					"buttonIndex": 0,
+					"powIndex": -1,
+					"powValue": 0,
+					"keyName": "None",
+					"gamepadButtonName": "None",
+					"instantActionCode": "GearUp",
+					"extendedActionCode": "None",
+					"extendedTime": 1,
+					"pinkieInstanceActionCode": "None",
+					"pinkieExtendedActionCode": "None"
+				}
+			],
+			"raceCommandAxisList": [
+				{
+					"axisIndex": 0,
+					"axisCode": "Steer",
+					"minRange": -1,
+					"maxRange": 1,
+					"isCombined": false
+				},
+				{
+					"axisIndex": 1,
+					"axisCode": "Gas",
+					"minRange": -1,
+					"maxRange": 1,
+					"isCombined": false
+				},
+				{
+					"axisIndex": 2,
+					"axisCode": "Brake",
+					"minRange": -1,
+					"maxRange": 1,
+					"isCombined": false
+				}
+			],
+			"forceFeedbackGain": 1,
+			"steerScale": 1,
+			"steerLock": 900,
+			"dynamicDamping": 1,
+			"steerLinearity": 2,
+			"roadEffects": 0,
+			"minDamper": 0,
+			"damperGain": 1,
+			"antaniGain": 1,
+			"minimumForceFeedback": 0,
+			"brakeGamma": 1,
+			"combinedPedals": 0
+		},
+		{
+			"version": 0,
+			"productName": "vJoy Device",
+			"productId": "3199013428-0-0-00807368867368",
+			"instanceGuid": "{8D3C9A70-D8DB-11ED-8002-444553540000}",
+			"steeringWheelModel": "None",
+			"isGamePad": 0,
+			"isPedals": 0,
+			"iconTemplate": "None",
+			"uICommandButtonList": [],
+			"raceCommandButtonList": [],
+			"raceCommandAxisList": [],
+			"forceFeedbackGain": 1,
+			"steerScale": 1,
+			"steerLock": 180,
+			"dynamicDamping": 1,
+			"steerLinearity": 2,
+			"roadEffects": 0,
+			"minDamper": 0,
+			"damperGain": 1,
+			"antaniGain": 1,
+			"minimumForceFeedback": 0,
+			"brakeGamma": 1,
+			"combinedPedals": 0
+		},
+		{
+			"version": 0,
+			"productName": "WingMan Formula GP",
+			"productId": "3255698541-0-0-00807368867368",
+			"instanceGuid": "{F11C4840-D95A-11ED-8001-444553540000}",
+			"steeringWheelModel": "None",
+			"isGamePad": 0,
+			"isPedals": 0,
+			"iconTemplate": "None",
+			"uICommandButtonList": [],
+			"raceCommandButtonList": [],
+			"raceCommandAxisList": [],
+			"forceFeedbackGain": 1,
+			"steerScale": 1,
+			"steerLock": 900,
+			"dynamicDamping": 1,
+			"steerLinearity": 1,
+			"roadEffects": 0,
+			"minDamper": 0,
+			"damperGain": 1,
+			"antaniGain": 1,
+			"minimumForceFeedback": 0,
+			"brakeGamma": 1,
+			"combinedPedals": 0
+		}
+	],
+	"gamepadSettings":
+	{
+		"useSteerWithRight": false,
+		"rumbleIntensity": 0.80000001192092896,
+		"steerSpeed": 0.69999998807907104,
+		"steerGamma": 3,
+		"steerFilter": 0.80000001192092896,
+		"deadZone": 0,
+		"speedSensitivity": 0.20000000298023224,
+		"useAutoSteer": true,
+		"useOldVibration": false,
+		"uICommandButtonList": [],
+		"raceCommandButtonList": [
+			{
+				"actionType": "CycleHudMfd",
+				"key":
+				{
+					"key": "None",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "IncreaseABS",
+				"key":
+				{
+					"key": "None",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "IncreaseTC",
+				"key":
+				{
+					"key": "None",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "GearUp",
+				"key":
+				{
+					"key": "Gamepad_FaceButton_Bottom",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "GearDown",
+				"key":
+				{
+					"key": "Gamepad_FaceButton_Left",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			}
+		]
+	},
+	"keyboardSettings":
+	{
+		"mouseSteering": false,
+		"mouseAcceleratorBrake": false,
+		"steerSpeed": 3.5,
+		"steerOppositeDirectionFactor": 3.5,
+		"steerGain": 0.20000000298023224,
+		"steerResetFactor": 1.7999999523162842,
+		"lookAhead": 4,
+		"mouseSpeed": 0.10000000149011612,
+		"uICommandButtonList": [],
+		"raceCommandButtonList": [
+			{
+				"actionType": "IgnitionSequenceOn",
+				"key":
+				{
+					"key": "E",
+					"bShift": false,
+					"bCtrl": true,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "Starter",
+				"key":
+				{
+					"key": "S",
+					"bShift": false,
+					"bCtrl": true,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "PitLimiter",
+				"key":
+				{
+					"key": "Tilde",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "IncreaseBrakeBias",
+				"key":
+				{
+					"key": "RightBracket",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "DecreaseBrakeBias",
+				"key":
+				{
+					"key": "LeftBracket",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "IncreaseEngineMap",
+				"key":
+				{
+					"key": "Backslash",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "DecreaseEngineMap",
+				"key":
+				{
+					"key": "Apostrophe",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "LookBack",
+				"key":
+				{
+					"key": "None",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "CameraMoveUp",
+				"key":
+				{
+					"key": "Up",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "CameraMoveDown",
+				"key":
+				{
+					"key": "Down",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "CameraMoveLeft",
+				"key":
+				{
+					"key": "Left",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "CameraMoveRight",
+				"key":
+				{
+					"key": "Right",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "IncreaseTCCut",
+				"key":
+				{
+					"key": "G",
+					"bShift": true,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "DecreaseTCCut",
+				"key":
+				{
+					"key": "G",
+					"bShift": false,
+					"bCtrl": true,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "IncreaseABS",
+				"key":
+				{
+					"key": "Y",
+					"bShift": true,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "DecreaseABS",
+				"key":
+				{
+					"key": "Y",
+					"bShift": false,
+					"bCtrl": true,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "KeyboardSteerLeft",
+				"key":
+				{
+					"key": "Comma",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "KeyboardSteerRight",
+				"key":
+				{
+					"key": "Period",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "KeyboardGas",
+				"key":
+				{
+					"key": "A",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "KeyboardBrake",
+				"key":
+				{
+					"key": "Z",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "KeyboardGearUp",
+				"key":
+				{
+					"key": "SpaceBar",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "KeyboardGearDown",
+				"key":
+				{
+					"key": "X",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			}
+		]
+	},
+	"comment": "",
+	"forceFeedbackIntervalSteps": 0
+}
