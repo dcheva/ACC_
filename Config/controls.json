@@ -211,17 +211,6 @@
 		"uICommandButtonList": [],
 		"raceCommandButtonList": [
 			{
-				"actionType": "IgnitionSequenceOn",
-				"key":
-				{
-					"key": "E",
-					"bShift": false,
-					"bCtrl": true,
-					"bAlt": false,
-					"bCmd": false
-				}
-			},
-			{
 				"actionType": "Starter",
 				"key":
 				{
@@ -387,21 +376,10 @@
 				}
 			},
 			{
-				"actionType": "KeyboardSteerLeft",
-				"key":
-				{
-					"key": "Comma",
-					"bShift": false,
-					"bCtrl": false,
-					"bAlt": false,
-					"bCmd": false
-				}
-			},
-			{
 				"actionType": "KeyboardSteerRight",
 				"key":
 				{
-					"key": "Period",
+					"key": "None",
 					"bShift": false,
 					"bCtrl": false,
 					"bAlt": false,
@@ -412,7 +390,7 @@
 				"actionType": "KeyboardGas",
 				"key":
 				{
-					"key": "A",
+					"key": "None",
 					"bShift": false,
 					"bCtrl": false,
 					"bAlt": false,
@@ -423,7 +401,7 @@
 				"actionType": "KeyboardBrake",
 				"key":
 				{
-					"key": "Z",
+					"key": "None",
 					"bShift": false,
 					"bCtrl": false,
 					"bAlt": false,
@@ -434,7 +412,7 @@
 				"actionType": "KeyboardGearUp",
 				"key":
 				{
-					"key": "SpaceBar",
+					"key": "None",
 					"bShift": false,
 					"bCtrl": false,
 					"bAlt": false,
@@ -445,7 +423,7 @@
 				"actionType": "KeyboardGearDown",
 				"key":
 				{
-					"key": "X",
+					"key": "None",
 					"bShift": false,
 					"bCtrl": false,
 					"bAlt": false,
@@ -457,6 +435,28 @@
 				"key":
 				{
 					"key": "Insert",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "IgnitionSequenceOn",
+				"key":
+				{
+					"key": "E",
+					"bShift": false,
+					"bCtrl": true,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "KeyboardSteerLeft",
+				"key":
+				{
+					"key": "None",
 					"bShift": false,
 					"bCtrl": false,
 					"bAlt": false,

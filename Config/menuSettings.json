@@ -22,7 +22,7 @@
 				{
 					"carName": "S9_519_1",
 					"driverName": "Hamaguchi_H",
-					"opponentCount": 28,
+					"opponentCount": 24,
 					"carGroups":
 					{
 						"GT3": 1
@@ -34,7 +34,7 @@
 					"raceLength": -1,
 					"positionOnGrid": 1,
 					"timeMultiplier": 1,
-					"trackName": "nurburgring",
+					"trackName": "imola",
 					"skillMultiplier": 90,
 					"aggroMultiplier": 90,
 					"p1_TimeOfDay": 14,
@@ -3117,9 +3117,9 @@
 	},
 	"globalSeasonTrackName":
 	{
-		"BP_2019": "nurburgring"
+		"BP_2019": "imola"
 	},
-	"globalOpponentCount": 28,
+	"globalOpponentCount": 24,
 	"globalOpponentSkill": 90,
 	"globalOpponentAggro": 90,
 	"globalPositionOnGrid": 1,

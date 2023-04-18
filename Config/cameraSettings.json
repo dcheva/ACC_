@@ -1,6 +1,6 @@
 {
 	"version": 3,
-	"lastUsedCamIndex": 6,
+	"lastUsedCamIndex": 5,
 	"lastUsedOnboardIndex": 0,
 	"generalMovement": 1,
 	"onboardMovement": 1,
@@ -49,8 +49,53 @@
 				},
 				{
 					"x": 1,
+					"y": -0.20000000298023224,
+					"z": 4.099998950958252
+				},
+				{
+					"x": 0,
 					"y": 0,
-					"z": 3
+					"z": 1.4000002145767212
+				}
+			],
+			"pitches": [ 0, 0, 0, 0, 0, 0, 0 ]
+		},
+		"lamborghini_huracan_st":
+		{
+			"cockpitVisMode": 0,
+			"dashInHud": false,
+			"dashInHudWidthLimit": true,
+			"dashOpacity": 1,
+			"offsets": [
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": -0.19999998807907104,
+					"z": 3.1999990940093994
 				},
 				{
 					"x": 0,
