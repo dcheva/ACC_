@@ -224,11 +224,11 @@ if starting:
 		"""
 		if alterUp and value < valueMax:
 			value += alterStep
-			note = int(value/valueMax*10)
+			note = int(value/valueMax*5+5)
 			winsound.Beep(penta[note],50)
 		if alterDown and value > valueMin:
 			value -= alterStep
-			note = int(value/valueMax*10)
+			note = int(value/valueMax*5+5)
 			winsound.Beep(penta[note],50)
 		value = repairValue(value, valueMin, valueMax)
 		return value
