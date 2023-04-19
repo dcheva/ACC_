@@ -71,7 +71,7 @@
 		"contentId": "MainGame",
 		"isPriority": false
 	},
-	"difficultyLevel": "Normal",
+	"difficultyLevel": "Easy",
 	"assists":
 	{
 		"autoGear": true,
@@ -96,7 +96,7 @@
 	},
 	"teamName": "",
 	"teamDrivers": [],
-	"medalPoints": 0,
+	"medalPoints": 1000,
 	"bonusPoints": 0,
 	"careerActiveEvent": 2,
 	"seasonNumber": 1,
@@ -117,12 +117,12 @@
 			"qualifyFinalPosition": 0,
 			"lapCount": 0,
 			"totalTime": 0,
-			"bestLap": 127027
+			"bestLap": 125082
 		},
 		{
 			"seasonNumber": 1,
-			"medalGained": "None",
-			"medalPoints": 0,
+			"medalGained": "Gold",
+			"medalPoints": 1000,
 			"totalBonusPoints": 0,
 			"firstPlaceHunter": 0,
 			"topQualifier": 0,
@@ -134,7 +134,7 @@
 			"qualifyFinalPosition": 0,
 			"lapCount": 0,
 			"totalTime": 0,
-			"bestLap": 138005
+			"bestLap": 131775
 		}
 	],
 	"pastSeasonResults": [],

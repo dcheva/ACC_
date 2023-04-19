@@ -59,6 +59,51 @@
 				}
 			],
 			"pitches": [ 0, 0, 0, 0, 0, 0, 0 ]
+		},
+		"lamborghini_huracan_st":
+		{
+			"cockpitVisMode": 0,
+			"dashInHud": false,
+			"dashInHudWidthLimit": true,
+			"dashOpacity": 1,
+			"offsets": [
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0.30000001192092896,
+					"z": 2.0000002384185791
+				}
+			],
+			"pitches": [ 0, 0, 0, 0, 0, 0, 0 ]
 		}
 	},
 	"lookWithSteerGain": 0,
