@@ -16,7 +16,7 @@ penta = [131,165,196,220,262,330,392,440,524,660,784,880,1047,1319,1568,1760,209
 reset = False
 
 if starting:
-	speech.say("Ready to start!")
+	speech.say("Started!")
     
 # *** ПАРАМЕТРЫ ***
 # Можно менять значения после знака "="
@@ -33,14 +33,14 @@ if starting:
 	steerNonlinearity = 25						# [0..900] на сколько % чувствительность руля в крайних положениях выше, чем в нейтральном
 # Педали и ручник
 	mouseThrottleBrake = False					# [True;False] газ и тормоз кнопками мыши
-	throttlePushRate = 100						#@ i3 100 i5 10	# [1..100] скорость нажатия газа
-	throttleReleaseRate = 20					#@ i3 20 i5 2	# [1..100] скорость отпускания газа
-	brakePushRate = 100							# [1..100] скорость нажатия тормоза
-	brakeReleaseRate = 20						# [1..100] скорость отпускания тормоза
-	clutchPushRate = 100						# [1..100] скорость нажатия сцепления
-	clutchReleaseRate = 20						# [1..100] скорость отпускания сцепления
-	handbrakePushRate = 100						# [1..100] скорость нажатия ручника
-	handbrakeReleaseRate = 100					# [1..100] скорость отпускания ручника
+	throttlePushRate = 50						#@ i3 100 i5 10	# [1..100] скорость нажатия газа
+	throttleReleaseRate = 10					#@ i3 20 i5 2	# [1..100] скорость отпускания газа
+	brakePushRate = 50							# [1..100] скорость нажатия тормоза
+	brakeReleaseRate = 10						# [1..100] скорость отпускания тормоза
+	clutchPushRate = 50						# [1..100] скорость нажатия сцепления
+	clutchReleaseRate = 10						# [1..100] скорость отпускания сцепления
+	handbrakePushRate = 50						# [1..100] скорость нажатия ручника
+	handbrakeReleaseRate = 50					# [1..100] скорость отпускания ручника
 # Автосцепление
 	autoClutch = False							# [True;False] прожимать сцепление и отпускать газ при переключении передач
 	autoThrottleBlip = False					# [True;False] перегазовка при понижении передачи
