@@ -37,7 +37,7 @@ if starting:
 	throttleReleaseRate = 10					#@ i3 20 i5 2	# [1..100] скорость отпускания газа
 	brakePushRate = 50							# [1..100] скорость нажатия тормоза
 	brakeReleaseRate = 10						# [1..100] скорость отпускания тормоза
-	clutchPushRate = 50						# [1..100] скорость нажатия сцепления
+	clutchPushRate = 50							# [1..100] скорость нажатия сцепления
 	clutchReleaseRate = 10						# [1..100] скорость отпускания сцепления
 	handbrakePushRate = 50						# [1..100] скорость нажатия ручника
 	handbrakeReleaseRate = 50					# [1..100] скорость отпускания ручника
