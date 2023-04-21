@@ -87,32 +87,7 @@
 			"isPedals": 0,
 			"iconTemplate": "None",
 			"uICommandButtonList": [],
-			"raceCommandButtonList": [
-				{
-					"buttonIndex": 1,
-					"powIndex": -1,
-					"powValue": 0,
-					"keyName": "None",
-					"gamepadButtonName": "None",
-					"instantActionCode": "None",
-					"extendedActionCode": "None",
-					"extendedTime": 1,
-					"pinkieInstanceActionCode": "None",
-					"pinkieExtendedActionCode": "None"
-				},
-				{
-					"buttonIndex": 0,
-					"powIndex": -1,
-					"powValue": 0,
-					"keyName": "None",
-					"gamepadButtonName": "None",
-					"instantActionCode": "None",
-					"extendedActionCode": "None",
-					"extendedTime": 1,
-					"pinkieInstanceActionCode": "None",
-					"pinkieExtendedActionCode": "None"
-				}
-			],
+			"raceCommandButtonList": [],
 			"raceCommandAxisList": [],
 			"forceFeedbackGain": 1,
 			"steerScale": 1,
